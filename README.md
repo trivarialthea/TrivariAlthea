@@ -2,7 +2,7 @@
 
 <a href="https://shattereddisk.github.io/rickroll/rickroll.mp4"><img align="left " alt="TrivariAlthea Github Stats" src="https://github-readme-stats.vercel.app/api?username=trivarialthea&show_icons=true&title_color=fff&icon_color=3FB950&text_color=9f9f9f&bg_color=151515&count_private=true" /></a>
 
-<a href="https://shattereddisk.github.io/rickroll/rickroll.mp4"><img align="left " alt="Code Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trivarialthea&layout=compact&title_color=fff&icon_color=3FB950&text_color=9f9f9f&bg_color=151515&count_private=true" /></a>
+![](https://komarev.com/ghpvc/?username=trivarialthea&style=for-the-badge)
 
 <!--
 **SkyCZ/SkyCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
