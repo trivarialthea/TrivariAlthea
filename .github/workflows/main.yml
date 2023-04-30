@@ -19,7 +19,6 @@ jobs:
           # Token
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, metadata
-          plugin_isocalendar: yes
           plugin_traffic: yes
           plugin_lines: yes
           plugin_gists: yes
