@@ -22,3 +22,5 @@ jobs:
           plugin_isocalendar: yes
           plugin_traffic: yes
           plugin_lines: yes
+          plugin_gists: yes
+          plugin_languages: yes
