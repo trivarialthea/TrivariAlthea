@@ -17,7 +17,7 @@ jobs:
           template: terminal
           filename: metrics.terminal.svg
           # Token
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: header, metadata
           plugin_isocalendar: yes
           plugin_traffic: yes
