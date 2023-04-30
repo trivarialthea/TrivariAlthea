@@ -18,7 +18,7 @@ jobs:
           filename: metrics.terminal.svg
           # Token
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base: header, metadata, repositories
           plugin_lines: yes
           plugin_lines_sections: repositories, history
           plugin_lines_repositories_limit: 2
