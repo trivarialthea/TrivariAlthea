@@ -4,6 +4,10 @@
 
 ![](https://komarev.com/ghpvc/?username=trivarialthea&style=for-the-badge)
 
+<picture>
+  <img src="/metrics.terminal.svg" alt="Metrics">
+</picture>
+
 <!--
 **SkyCZ/SkyCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
